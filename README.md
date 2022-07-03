@@ -1,2 +1,2 @@
 # PUA-MOS
-PUA-MOS: End-to-End Point-wise Uncertainty Weighted Aggregation for Moving Object Segmentation
+PUA-MOS: End-to-End Point-wise Uncertainty Weighted Aggregation for Moving Object Segmentation(IROS2022)
